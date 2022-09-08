@@ -1,4 +1,5 @@
 # Monty Project
+
 <h1 align="center"><img src="images/monty.JPG"></h1>
 
 ## Monty byte code files
@@ -13,13 +14,13 @@ It is built for learning purposes and as a required project for [Alx Software En
 
 ## This project in the Low Level Programming series is about:
 
-* What do LIFO and FIFO mean
-* What is a stack, and when to use it
-* What is a queue, and when to use it
-* What are the common implementations of stacks and queues
-* What are the most common use cases of stacks and queues
-* What is the proper way to use global variables
-* How to work with git submodules
+- What do LIFO and FIFO mean
+- What is a stack, and when to use it
+- What is a queue, and when to use it
+- What are the common implementations of stacks and queues
+- What are the most common use cases of stacks and queues
+- What is the proper way to use global variables
+- How to work with git submodules
 
 ## Objective - Create a new interpreter to process Monty files
 
@@ -27,16 +28,17 @@ Monty is a scripting language that is first compiled into Monty Byte codes. It r
 
 ## Directories
 
-Directory name |	Description
------------ | -------------------
-/monty |	Directory holding all files for Monty interpretor
+| Directory name | Description                                       |
+| -------------- | ------------------------------------------------- |
+| /monty         | Directory holding all files for Monty interpretor |
 
 ## More Info
+
 For more information on the files and description of this project visit the [MONTY.md](https://github.com/daveeazi/monty/blob/main/MONTY.md) or the official [Monty website](https://montyscoconut.github.io/about.html#:~:text=The%20Name%20%22Monty%22,British%20comedy%20group%20Monty%20Python.)
 All files is formatted Betty style and checked using betty-style.pl and betty-doc.pl
 All header files is guarded
 
 ## Authors
 
-* [David Atat](https://github.com/daveeazi)
-* Mercy Korir
+- [David Atat](https://github.com/daveeazi)
+- [Mercy Korir](https://github.com/MercyKorir)
