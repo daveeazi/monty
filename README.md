@@ -32,11 +32,11 @@ Directory name |	Description
 /monty |	Directory holding all files for Monty interpretor
 
 ## More Info
-For more information on the files and description of this project visit the [monty.md]() or the official [Monty website](https://montyscoconut.github.io/about.html#:~:text=The%20Name%20%22Monty%22,British%20comedy%20group%20Monty%20Python.)
+For more information on the files and description of this project visit the [MONTY.md](https://github.com/daveeazi/monty/blob/main/MONTY.md) or the official [Monty website](https://montyscoconut.github.io/about.html#:~:text=The%20Name%20%22Monty%22,British%20comedy%20group%20Monty%20Python.)
 All files is formatted Betty style and checked using betty-style.pl and betty-doc.pl
 All header files is guarded
 
 ## Authors
 
-* David Atat
+* [David Atat](https://github.com/daveeazi)
 * Mercy Korir
